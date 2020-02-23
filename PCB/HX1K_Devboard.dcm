@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS62WV1288BLL-55HLI
+D ISSI IS62WV1288BLL-55HLI SRAM Memory, 1Mbit, 2.5  3.6 V, 55ns 32-Pin STSOP
+F http://www.issi.com/WW/pdf/62WV1288ALL.pdf
+$ENDCMP
+#
+$CMP MX29LV640EBTI-70G
+D MX29LV640EBTI-70G, Parallel Flash Memory, 4M x 16 bit, 8M x 8 bit 64Mbit, 70ns, 2.7  3.6 V, 4, 48-Pin, TSOP
+F https://datasheet.lcsc.com/szlcsc/1808291813_MXIC-Macronix-MX29LV640EBTI-70G_C30076.pdf
+$ENDCMP
+#
+$CMP W25Q80DVSNIG
+D IC FLASH 8MBIT 104MHZ 8SOIC
+F https://www.winbond.com/resource-files/w25q80dv_revg_07212015.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,19 @@
+set_io clk 129
+
+set_io sw1 116
+set_io sw2 117
+set_io sw3 118
+set_io sw4 119
+set_io sw5 120
+set_io sw6 121
+set_io sw7 122
+set_io sw8 128
+
+set_io led1 136
+set_io led2 137
+set_io led3 138
+set_io led4 139
+set_io led5 141
+set_io led6 142
+set_io led7 143
+set_io led8 144

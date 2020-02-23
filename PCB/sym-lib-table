@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name HX1K_Devboard)(type Legacy)(uri ${KIPRJMOD}/HX1K_Devboard.lib)(options "")(descr ""))
+  (lib (name HX1K_Devboard-rescue)(type Legacy)(uri ${KIPRJMOD}/HX1K_Devboard-rescue.lib)(options "")(descr ""))
+)
